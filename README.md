@@ -11,7 +11,7 @@
 
 I'm a curious and driven software developer with a knack for solving complex problems and building efficient, scalable solutions.
 
-🎓 I'm a proud **BITSian**—completed my **M.E. in Software Systems** at **BITS Pilani (Pilani Campus)**.  
+🎓 A proud **BITSian**.  
 💻 I specialize in full stack development using **Next.js**, **React**, and **GraphQL**, and have experience with cloud platforms, DevOps, and mobile app development.
 
 ---
